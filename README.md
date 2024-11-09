@@ -28,7 +28,7 @@ My core objective is to build resilient, secure, and cost-efficient systems that
 - **Languages: Python, JavaScript, TypeScript, SQL**
 - **Databases: NoSQL (MongoDB, DynamoDB), Relational Databases (MySQL, PostgreSQL)**
 - **Version Control: Git, GitHub**
-- **Automation & Configuration Management: Ansible**
+- **Configuration Management: Ansible**
 
 ## 📫 Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayomipo-oluyemi1/) or follow me on GitHub!
