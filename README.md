@@ -1,49 +1,34 @@
-👋 Hi there! I'm Ayo a DevOps/SRE with a passion for automating infrastructure and optimizing system performance to deliver tangible business value. Demonstrated expertise in Terraform, AWS services, and using CI/CD tools to achieve significant reductions in infrastructure management time, downtime, and deployment time. Committed to building resilient, scalable, and efficient cloud environments that empower organizations to innovate and deliver at a rapid pace.
+**👋 Hello, I'm Ayo – DevOps Engineer & SRE**
 
-## 🚀 Skills & Expertise
+I'm a results-driven DevOps engineer with extensive experience in automating infrastructure, optimizing system performance, and implementing scalable cloud solutions. With a strong focus on delivering efficiency and business value, I specialize in leveraging modern CI/CD practices, Infrastructure as Code (IaC), and cloud-native technologies to streamline operations, reduce downtime, and accelerate software delivery.
 
-### CI/CD Tools
-- **GitHub Actions**
-- **Jenkins**
+My core objective is to build resilient, secure, and cost-efficient systems that enable businesses to innovate and scale seamlessly.
+
+## 🚀 Core Competencies
+
+### Cloud Infrastructure & DevOps Automation
+- **AWS (EC2, S3, Lambda, RDS, VPC)**
+- **Infrastructure as Code (IaC) with Terraform, CloudFormation**
+- **CI/CD Pipelines: GitHub Actions, Jenkins**
 
 ### Containerization & Orchestration
 - **Docker**
 - **Kubernetes**
 
-### Infrastructure as Code (IaC) Tools
-- **Terraform**
-- **CloudFormation**
-
-### Monitoring & Alerting Tools
+### Monitoring & Observability
 - **Prometheus**
 - **Grafana**
+- **CloudWatch**
 
-### Performance Optimization & Cost Management
-- Expertise in enhancing system performance while managing costs effectively.
-
-### Research & Evaluation of Emerging Technologies
-- Passionate about exploring and implementing cutting-edge technologies.
-
-### Scripting Languages
+### Scripting & Automation
 - **Python**
 - **Bash**
 
-### Troubleshooting & Problem-Solving Skills
-- Adept at identifying and resolving technical issues efficiently.
-
-## 💼 Soft Skills
-- **Adaptability & Flexibility**
-- **Collaboration & Communication Skills**
-- **Incident Management**
-- **Security Awareness**
-- **Technical Documentation**
-
-## 🌐 Languages
-- **JavaScript**
-- **TypeScript**
-- **NoSQL**
-- **Python**
-- **SQL**
+## 🌐 Technical Proficiencies
+- **Languages: Python, JavaScript, TypeScript, SQL**
+- **Databases: NoSQL (MongoDB, DynamoDB), Relational Databases (MySQL, PostgreSQL)**
+- **Version Control: Git, GitHub**
+- **Automation & Configuration Management: Ansible**
 
 ## 📫 Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayomipo-oluyemi1/) or follow me on GitHub!
