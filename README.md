@@ -40,10 +40,9 @@
 
 ## 🌐 Languages
 - **JavaScript**
-- **Node.js**
+- **TypeScript**
 - **NoSQL**
 - **Python**
-- **React.js**
 - **SQL**
 
 ## 📫 Get in Touch
