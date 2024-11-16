@@ -6,7 +6,7 @@ I'm a passionate software engineer specializing in DevOps practices and cloud co
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-Python-green)
-![JavaScript](https://img.shields.io/badge/javascript-JavaScript-green)
+![JavaScript](https://img.shields.io/badge/javascript-JavaScript-green?logo=javascript))
 ![TypeScript](https://img.shields.io/badge/typescript-TypeScript-green)
 ![Bash](https://img.shields.io/badge/bash-Shell-green)
 
