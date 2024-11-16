@@ -39,8 +39,8 @@ I'm a passionate software engineer specializing in DevOps practices and cloud co
 - Monitor system performance and optimize resources
 - Automate routine operations and maintenance tasks
 
-## ?? Connect With Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayomipo-oluyemi1/) or follow my work here on GitHub!
+## 📫 Connect With Me
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-green?logo=linkedin)](https://www.linkedin.com/in/ayomipo-oluyemi1/) or follow my work here on GitHub!
 
 ---
 
