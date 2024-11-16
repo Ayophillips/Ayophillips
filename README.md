@@ -5,31 +5,31 @@ I'm a passionate software engineer specializing in DevOps practices and cloud co
 ## 💻 Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
-![Bash](https://img.shields.io/badge/Bash-Advanced-green)
+![Python](https://img.shields.io/badge/python-Python-green)
+![JavaScript](https://img.shields.io/badge/javascript-JavaScript-green)
+![TypeScript](https://img.shields.io/badge/typescript-TypeScript-green)
+![Bash](https://img.shields.io/badge/bash-Shell-green)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Advanced-orange)
-![Terraform](https://img.shields.io/badge/Terraform-Expert-purple)
-![Docker](https://img.shields.io/badge/Docker-Expert-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-blue)
+![AWS](https://img.shields.io/badge/aws-AWS-green)
+![Terraform](https://img.shields.io/badge/terraform-Terraform-green)
+![Docker](https://img.shields.io/badge/docker-Docker-green)
+![Kubernetes](https://img.shields.io/badge/kubernetes-Kubernetes-green)
 
 ### CI/CD & Version Control
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-blue)
-![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-red)
-![Git](https://img.shields.io/badge/Git-Expert-orange)
+![GitHub Actions](https://img.shields.io/badge/github-Actions-green)
+![Jenkins](https://img.shields.io/badge/jenkins-Jenkins-green)
+![Git](https://img.shields.io/badge/git-Git-green)
 
 ### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-Advanced-red)
-![Grafana](https://img.shields.io/badge/Grafana-Advanced-orange)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-Expert-blue)
+![Prometheus](https://img.shields.io/badge/prometheus-Prometheus-green)
+![Grafana](https://img.shields.io/badge/grafana-Grafana-green)
+![CloudWatch](https://img.shields.io/badge/amazon-CloudWatch-green)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-Advanced-blue)
+![MongoDB](https://img.shields.io/badge/mongodb-MongoDB-green)
+![PostgreSQL](https://img.shields.io/badge/postgresql-PostgreSQL-green)
+![DynamoDB](https://img.shields.io/badge/amazon-DynamoDB-green)
 
 ## 🚀 What I Do
 - Design and implement scalable cloud infrastructure
