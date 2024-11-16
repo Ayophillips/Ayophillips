@@ -5,31 +5,31 @@ I'm a passionate software engineer specializing in DevOps practices and cloud co
 ## 💻 Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/python-Python-green)
-![JavaScript](https://img.shields.io/badge/javascript-JavaScript-green?logo=javascript))
-![TypeScript](https://img.shields.io/badge/typescript-TypeScript-green)
-![Bash](https://img.shields.io/badge/bash-Shell-green)
+![Python](https://img.shields.io/badge/Code-Python-green?logo=python)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-green?logo=javascript)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-green?logo=typescript)
+![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/aws-AWS-green)
-![Terraform](https://img.shields.io/badge/terraform-Terraform-green)
-![Docker](https://img.shields.io/badge/docker-Docker-green)
-![Kubernetes](https://img.shields.io/badge/kubernetes-Kubernetes-green)
+![AWS](https://img.shields.io/badge/Cloud-AWS-green?logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-green?logo=terraform)
+![Docker](https://img.shields.io/badge/Container-Docker-green?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-green?logo=kubernetes)
 
 ### CI/CD & Version Control
-![GitHub Actions](https://img.shields.io/badge/github-Actions-green)
-![Jenkins](https://img.shields.io/badge/jenkins-Jenkins-green)
-![Git](https://img.shields.io/badge/git-Git-green)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-green?logo=github-actions)
+![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-green?logo=jenkins)
+![Git](https://img.shields.io/badge/Tool-Git-green?logo=git)
 
 ### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/prometheus-Prometheus-green)
-![Grafana](https://img.shields.io/badge/grafana-Grafana-green)
-![CloudWatch](https://img.shields.io/badge/amazon-CloudWatch-green)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-green?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-green?logo=grafana)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-green?logo=amazon-cloudwatch)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/mongodb-MongoDB-green)
-![PostgreSQL](https://img.shields.io/badge/postgresql-PostgreSQL-green)
-![DynamoDB](https://img.shields.io/badge/amazon-DynamoDB-green)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-green?logo=postgresql)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-green?logo=amazon-dynamodb)
 
 ## 🚀 What I Do
 - Design and implement scalable cloud infrastructure
