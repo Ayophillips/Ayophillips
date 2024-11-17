@@ -2,7 +2,7 @@
 
 I'm a software engineer specializing in DevOps practices and cloud computing. 
 
-My main focus right now is building scalable infrastructure, implementing robust CI/CD pipelines, and leveraging cloud-native technologies to deliver efficient solutions. I'm dedicated to automating processes, optimizing performance, and ensuring high availability of systems.
+My main focus right now is building scalable infrastructure, implementing robust CI/CD pipelines, and leveraging cloud-native technologies to deliver efficient solutions. I enjoy automating processes, optimizing performance, and ensuring high availability of systems.
 
 ## 💻 Technical Skills
 
