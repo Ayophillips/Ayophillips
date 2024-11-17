@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Ayo
 
-I'm a passionate software engineer specializing in DevOps practices and cloud computing. With a strong foundation in modern development practices, I focus on building scalable infrastructure, implementing robust CI/CD pipelines, and leveraging cloud-native technologies to deliver efficient solutions. I'm dedicated to automating processes, optimizing performance, and ensuring high availability of systems.
+I'm a software engineer specializing in DevOps practices and cloud computing. 
+
+My main focus right now is building scalable infrastructure, implementing robust CI/CD pipelines, and leveraging cloud-native technologies to deliver efficient solutions. I'm dedicated to automating processes, optimizing performance, and ensuring high availability of systems.
 
 ## 💻 Technical Skills
 
@@ -40,7 +42,7 @@ I'm a passionate software engineer specializing in DevOps practices and cloud co
 - Automate routine operations and maintenance tasks
 
 ## 📫 Connect With Me
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayomipo-oluyemi1/) or follow my work here on GitHub!
+Feel free to connect with me on  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayomipo-oluyemi1/)  or follow my work here on GitHub!
 
 ---
 
